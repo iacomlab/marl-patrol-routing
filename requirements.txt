@@ -1,0 +1,17 @@
+mongo_manager_juan_palma_borda
+general-utils-juan-palma-borda==0.2.2
+pyproj==3.5.0
+pygame
+
+git+https://github.com/muerterauda/MARLlib@master#egg=marllib
+
+python-dotenv
+GPUtil
+
+seaborn
+jupyter
+jupyter_dash
+dash
+dash_bootstrap_components
+chart_studio
+statsmodels

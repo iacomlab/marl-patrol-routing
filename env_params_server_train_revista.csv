@@ -1,0 +1,7 @@
+ID;env.area_algortimo;env.patrols;env.size_square_obs;env.initial_position;env.out_of_zone;env.reward_exploration
+1;10;10;3;best;-10;10
+2;10;10;6;best;-10;10
+3;9;5;6;best;-25;5
+4;9;10;1;best;-25;5
+5;9;10;3;best;-25;5
+6;9;10;6;best;-25;5

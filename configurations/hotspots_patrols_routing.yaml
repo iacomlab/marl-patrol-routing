@@ -1,0 +1,21 @@
+env: hotspots_patrols_routing
+
+env_args:
+  map_name: "hotspots_patrols_routing"
+  render: "human_mov"
+  area_algortimo: 9
+  max_steps: 50
+  patrols: 5
+  steps_to_forget: 10
+  size_square_obs: 6
+  out_of_zone: -25
+  reward_exploration: 5
+  normalizer_crimes: 10
+  initial_position: "random"
+
+
+
+mask_flag: True
+global_state_flag: False
+opp_action_in_cc: False
+agent_level_batch_update: True
